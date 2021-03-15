@@ -1,0 +1,8 @@
+pytest
+flask
+pandas
+nltk
+numpy
+torch torchvision torchaudio
+transformers
+sentence-transformers
